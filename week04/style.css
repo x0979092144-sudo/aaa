@@ -21,3 +21,9 @@ nav a{
   text-decoration: none;
   margin-right: 20px;
 }
+article {
+  border: 1px solid #ddd;
+  padding: 20px; 
+  margin: 20px 0; 
+  border-radius: 10px; 
+}
